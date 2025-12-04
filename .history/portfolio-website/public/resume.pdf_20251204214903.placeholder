@@ -1,0 +1,16 @@
+# Resume Placeholder
+
+This is a placeholder file for your resume. 
+
+## To add your actual resume:
+
+1. Replace this file with your actual resume PDF
+2. Name it `resume.pdf` 
+3. Place it in the `public` folder
+4. The download link in the Hero section will automatically work
+
+## Alternatively:
+
+- Use a different filename and update the link in `src/components/Hero.tsx`
+- Link to an external resume hosting service
+- Create a dedicated resume page on your site
